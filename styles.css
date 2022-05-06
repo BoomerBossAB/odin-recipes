@@ -1,0 +1,12 @@
+.heading{
+    color:black;
+    background-color: red;
+    font-size: 40px;
+    font-weight: bold;
+}
+.sub{
+    font-size:30px;
+}
+.text{
+    font-size: 20px;
+}
